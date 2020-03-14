@@ -9,7 +9,8 @@
 # Needed tools
 
 + Tickers from tushare(CN) or NASDAQ website(US)
-+ History data from 163(CN) or yfinance
++ History data from 163(daily history of CN) and tushare(each minute of CN)
++ History data from yfinance(daily history of US) (alphaventage has a restriction on frequency)
 + Machine learning package
 + Zipline
 + IB(Interactive Blokers)
